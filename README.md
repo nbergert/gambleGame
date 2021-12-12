@@ -1,0 +1,2 @@
+# gambleGame
+a fun game
